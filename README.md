@@ -2,11 +2,11 @@
 Simple calculator that implements 4 operators: sum, subtraction, multiplication, division and the exponentiation
 
 ## Options Availables
-0. Sum: summing of 2 numbers
-1. Sub: subtraction of 2 numbers
-2. Mult: multiplication of 2 numbers
-3. Div: divion of 2 numbers
-4. Power: power operator equivalent to **
+**0.** Sum: summing of 2 numbers
+**1.** Sub: subtraction of 2 numbers
+**2.** Mult: multiplication of 2 numbers
+**3.** Div: divion of 2 numbers
+**4.** Power: power operator equivalent to **
 
 ## Modules
 - **OS Module**
